@@ -1,0 +1,10 @@
+I am learning python now!
+It is super fun to learn Python programming 
+I am learning how to handle files in python!This is a new line that I added to the file!My name is David Uzi.My name is David Uzi.My name is David Uzi.
+ My name is David Uzi.My name is David Uzi.
+My name is David Uzi.
+
+My name is David Uzi.
+My name is Dave.Welcome to data science class.
+Welcome to data science class.
+Python is interesting.
