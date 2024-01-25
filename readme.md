@@ -97,7 +97,7 @@ Feel free to explore each tutorial at your own pace. Happy coding!
 Contributions are welcome! If you find issues or have suggestions for improvements, please open an issue or create a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](/LICENSE.md).
 
 
 In this README, users are encouraged to use the sample datasets provided in the 'data' directory for practicing data manipulation and analysis.
